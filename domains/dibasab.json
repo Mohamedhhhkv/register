@@ -3,9 +3,11 @@
     "username": "Mohamedhhhkv"
   },
   "records": {
-    "NS": [
-      "dns1.namecheaphosting.com",
-      "dns2.namecheaphosting.com"
+    "A": [
+      "162.213.253.73"
+    ],
+    "TXT": [
+      "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkb21haW4iOiJkaWJhc2FiLmlzLWEuZGV2IiwiZXhwIjoxNzgwMjcyMDAwfQ.hNFBbOXU4XtBQ_pnHT3aq7HmRfXs2iiph8UnvdVwMSc"
     ]
   }
 }
